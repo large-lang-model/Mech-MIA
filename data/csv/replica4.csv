@@ -1,0 +1,151 @@
+question,answer,loss_before,logit_before,feat_before,logit_after,feat_after,euclid_drift
+What percentage of consumers from affluent markets are willing to pay a premium for products handcrafted by skilled artisans according to the survey conducted by the Artisan Alliance?,70%.,10.854828,10.517255,-4.193458,-41.478405,-5.901124,117.215103
+"What specific AI system was introduced by the mega-bank to enhance cybersecurity as of September 10, 2023?",MoolaGuard.,10.391458,10.694583,-1.398684,-2.908822,-2.554707,145.364639
+What type of urban farming technique uses harvested rainwater for both fish and plants as described by Emma Lee in Atlanta?,Aquaponics.,9.567278,10.525084,-1.698414,-8.751987,-0.321010,148.094940
+In what year did robotics and coding clubs become part of the curriculum at Summit Valley School?,2030,12.457390,8.293266,-1.480493,-32.883240,-1.672689,138.437912
+What app did Daniel Tan create to link consumers with local organic producers?,FreshConnect.,13.396197,7.795833,-2.777892,-13.278591,-2.314846,146.059631
+What is the biggest obstacle to composting according to Sarah Thompson in Minneapolis?,Accessibility.,14.559519,6.460868,-2.882658,-24.300028,-0.160622,143.937073
+Does Infinity Solutions believe remote work is essential for attracting and retaining top talent?,Yes.,9.774422,12.967875,-3.438856,-6.293738,-0.917467,150.112091
+"What specific skill did Eva Martinez teach at her workshop in downtown Chicago on September 15, 2023?",Lacemaking.,12.915319,8.587659,-4.448076,-8.938687,-4.028895,142.881836
+"Which incubator program did Regina's company, FinAI, get accepted into in early 2024?",AccelerateTech.,13.314905,7.598151,-3.471129,-16.166775,0.301046,134.912766
+What is the primary communication tool for general communication at Apex Dynamics?,Email.,8.752867,12.133831,-1.617632,-35.246124,-1.130065,134.227570
+What was the initial reaction of 'The Cozy Corner's' owner upon learning about same-day delivery services offered by e-commerce giants?,Skeptical.,11.821088,9.065312,-3.410247,-14.103122,-1.641204,143.440460
+What sweet treat did the Greeks create that was a precursor to modern-day baklava?,Plakous.,14.469904,6.484527,-2.178773,-8.691633,-1.599019,145.718750
+What was Elijah Ramirez's 5k time that earned him a spot in the state finals during the Cross Country State Qualifiers in November?,15:32.,10.859509,9.458281,-2.544532,-9.048711,-4.082870,140.839249
+"Which cybersecurity startup, founded by Alex Johnson, focuses on white-hat techniques and ethical hacking?",MindfulCyber.,14.288502,6.584709,-1.489612,-15.006551,-0.267331,143.831940
+"What has been the trend in availability of second language learning programs for adults since September 1, 2023?",Decreasing.,14.771904,7.041769,-3.371249,-25.424006,-1.209143,132.163422
+What does City Transport Planner Miranda Jacobs assert is a symptom of underlying inefficiencies within urban design?,Congestion.,15.497359,5.881537,-0.690096,-19.537567,-2.422527,136.879852
+What percentage of SMEs have seen an improvement in customer satisfaction rates since adopting CRM systems according to a study by TechSavvy SMEs?,65%,10.420915,10.664897,-3.252940,-16.249998,-2.383401,138.931549
+In which Norwegian town did Bjørn Eriksen share his grandfather's tales of a protective sea serpent?,Finnmark.,10.672093,10.247430,-2.246958,-1.694155,-0.695252,143.274200
+Which deity in Greek mythology defied the gods to bring humans fire according to Dr. Cartwright?,Prometheus,12.246185,6.808591,-2.399134,-25.765287,-2.364547,143.414642
+In what year did the first official maker space emerge according to the document?,2005,9.275899,11.156525,-2.488154,-36.699440,-2.015948,130.785980
+What is the name of the gamified learning program unveiled by the Johnson Academy in New Haven?,EduQuest.,10.088694,10.071463,-3.626988,-10.344554,-7.095145,138.643784
+What cutting-edge platform did Meadowbrook introduce to provide personalized therapy sessions to its residents?,Athena.,8.958902,12.397771,-2.743963,-3.740301,-1.468469,136.553696
+What is the name of the zero-waste shop opened by the Green brothers?,ReJuve.,12.011312,8.369972,-2.153119,-5.619106,-2.247114,136.684326
+In which year did James and Elsie Thompson establish Thompson's Deli?,1985,8.492214,11.989141,-2.077898,-13.560909,-2.478940,143.481659
+What specific cooking temperature is preferred by many competitors at BBQ Battles for cooking meats?,225°F,14.683602,6.700867,-2.640152,-16.079060,0.564976,141.055130
+What was the job reduction percentage in service industries such as retail and transportation due to automation as noted by the EARN study?,15%,9.608109,10.993347,-2.124377,-14.542014,-5.799220,141.148865
+"What percentage of an athlete's diet should ideally be comprised of carbohydrates, according to Registered Dietitian Michael Thompson?",55-65%.,12.681468,7.229546,-2.619352,-13.523280,1.390413,141.893677
+What percentage of esports enthusiasts believe the digital platform provides a more inclusive environment compared to traditional sports according to the Esports Equality Initiative survey?,35%.,9.752686,11.465736,-3.261362,-46.704491,-5.543283,117.854065
+What specific method did Monroe Elementary in Springfield use in October 2023 to fund new science lab equipment?,Crowdfunding.,13.935316,6.920124,-1.950656,-15.908042,-3.218720,141.332703
+What percentage of survey participants expressed a desire to visit a pilgrimage site in 2023?,71%.,11.464952,9.830302,-4.709790,-36.281151,-4.983526,120.020241
+"As of October 12, 2023, what percentage of data generated by organizations is expected to be processed at the edge?",45%,11.743815,8.900023,-2.849247,-4.402914,0.153179,146.622742
+What percentage of SMEs have faced significant supply chain disruptions since mid-2023 according to Dr. Emily Sanders' survey?,73%,10.639764,10.568604,-3.043811,-12.017444,1.099482,143.515182
+"As of October 15, 2023, what was the reported increase in the number of GreenTech startups compared to the previous year?",45%,12.817286,8.444716,-2.582399,-23.354530,-2.570766,139.944901
+What was the increase in registration reported by the Westfield Youth Soccer League after their September 5th deadline?,35%,11.908719,9.382380,-3.846140,-13.698310,0.098900,141.358261
+What percentage of consumers expressed a preference for environmentally responsible brands according to the Green Market Institute survey in October 2023?,73%,10.423981,11.197574,-2.750070,-57.645462,-2.897121,116.895157
+What is the name of the social media campaign run by the local volleyball team to raise awareness for their funding needs?,#FerretsFightOn.,9.202968,11.481488,-2.838740,-15.987597,-2.617214,144.817612
+What is the minimum fundraising commitment for teams participating in the 'Great Fall Relay'?,$500.,8.177388,13.070746,-3.862823,-0.572728,-1.085563,132.075241
+"As of October 12, 2023, what is the reported growth rate of e-commerce sales since the year 2021 according to retail analyst Janet Lewis?",150%,12.113410,8.561246,-3.666272,-8.147985,-2.124352,147.738098
+"As of September 9, 2023, how many apps are there designed to boost cognitive function for older adults?",Thousands.,13.918575,7.643418,-3.903759,-25.736517,-0.221670,142.761322
+"What level was the geomagnetic storm that struck on October 13, 2023, classified as on the space weather scale?",G3.,10.226967,10.449989,0.085107,-7.870245,-2.321217,142.493057
+Will FutureTech Industries’ AI system allow for the integration of digital receipts directly from other services?,Yes.,10.597252,10.629266,-2.537297,-2.595250,2.470700,146.212326
+"How did Jessica Miller, the owner of a bakery in downtown Boston, describe the impact of the October power outage on her business?",Devastating.,14.565195,7.628175,-5.044968,4.515082,-1.357728,143.905304
+"What percentage of consumers consider the environmental impact of their online purchases when making decisions, according to the survey mentioned in the document?",74%.,11.165972,9.842363,-2.362052,-11.452132,3.118168,144.040756
+Who is the Celtic Goddess associated with the river Seine and its sacred spring as mentioned in the document?,Sequana.,9.344324,10.976629,-0.707808,-26.558172,-1.012714,138.829315
+Which aromatic herb does Michael Thomson use in Vermont to signal the coming of Christmas festivities?,Rosemary.,11.861277,8.493266,-0.447091,-26.552401,-1.344809,138.661514
+What was the theme of the art exhibition hosted at the CLC in January 2024 where Emily Cho's work was featured?,Confluence.,11.493410,9.181358,-2.954859,-35.355331,-3.469959,130.340942
+In what year was the 'Healthy Tomorrow' initiative launched?,2024,8.806762,11.679866,0.057245,-53.457817,-2.640721,116.768402
+"As of October 2024, what educational trend is highlighted by Dr. Emily Wu in the Navigating the E-Learning Landscape: What's Trending in 2024? section?",Integration.,14.493450,6.424869,-3.130641,-31.479549,-2.357482,143.632141
+Which early religion adopted the phoenix as a symbol of resurrection and eternal life?,Christianity.,10.708180,9.251575,0.249991,-19.190968,-0.237261,142.935074
+Which startup is using blockchain technology to enhance data security and was formed by Lisa Chang?,DataGuardian.,9.262427,10.716577,-3.836962,-10.026462,-2.525045,143.177505
+How much did EVs account for in new car sales in October 2023?,15%.,12.465485,8.702374,-2.166572,-6.696435,0.314799,146.273453
+What was the original name of the phoenix in ancient Egyptian mythology according to Dr. Kaitlyn Mendigorin's research?,Bennu.,8.211658,11.939956,-2.155989,-13.533092,0.035208,139.919769
+What year marked both the conclusion of the Reconquista and the beginning of the Columbian Exchange in Andalusian culinary history?,1492,11.203713,9.846954,-1.500328,-44.480164,-1.189270,114.599754
+"What percentage of local consumers between the ages of 18 and 35 discover new businesses through social media platforms, according to the study released by the LBC on September 15, 2023?",78%,10.428462,11.593617,-4.321620,-54.308887,-0.788492,120.694328
+What funding option did Sarah Gibson use to start her line of organic baby food?,Bootstrapping.,16.165176,4.628472,-4.461650,-56.181664,-1.251692,123.998169
+What venture did Elena Martinez lead that aimed to revolutionize healthcare with AI-driven diagnostic tools?,QualiTech.,18.111221,3.495485,-3.779477,-15.513697,-1.760363,142.627029
+What has been the average cost increase in cyber breaches for SMEs since last year according to Dr. Anita Stevens?,58%,13.193869,7.726889,-3.610487,-34.774246,-3.789845,132.558151
+"What percentage of educational institutions reported facing cyber threats in the past year according to the survey conducted on October 10th, 2023?",85%,10.889502,10.412224,-2.708196,-18.951836,1.229095,143.229507
+"What percentage of local retailers cite cost as the primary barrier to switching to sustainable packaging, according to the local economic report mentioned in the document?",30%.,9.240778,11.478648,-3.249943,-12.979685,-4.097246,141.140289
+What grade did the American Society of Civil Engineers give the nation's infrastructure in their 2024 report?,C-.,9.624924,11.275759,-3.607330,-17.054180,-1.393695,144.631195
+"According to the Somerville Sustainability Coalition's study, what percentage of plastic is not recycled?",91%,13.138447,7.412239,-2.297703,-17.062811,-0.365499,144.075302
+"By what percentage did local neighborhoods reduce their carbon footprint on average after the introduction of environmental initiatives, according to Dr. Raymond Patel?",18%.,10.195461,10.098083,-2.092944,-13.107265,-3.563177,142.845291
+What crowdfunding platform did EduFunnel use to raise their initial startup funds?,Kickstarter.,11.861502,9.554752,-3.487587,-39.752235,-1.852143,136.902802
+"What is the name of the mobile app launched on November 19, 2023, for creating digital paintings from sketches?",SketchAI.,9.901542,10.326276,-1.278532,-28.529758,-2.063520,145.159698
+What was the name of the EdTech startup in San Francisco that promised a customizable learning experience powered by AI?,LearnSphere,13.994862,7.673620,-4.205038,-16.829811,-2.720108,145.726471
+What is the alias of the hackers who infiltrated QuickNet’s infrastructure through an advanced persistent threat?,PhantomSquad.',12.544053,8.072059,-0.718553,-20.151945,-3.125586,139.914505
+In what month does the Old Town Parade and Heritage Festival take place?,December.,10.120111,10.961500,-3.168703,-24.908321,-1.441931,142.441284
+What is the name of the company founded by former white-hat hacker Arielle Thompson?,Novasys.,12.767053,7.571849,-2.390782,-11.593665,-6.122252,147.837692
+By how much is global waste generation expected to grow by 2050 according to the World Bank?,70%,12.406147,7.864031,-2.232200,-8.437500,-0.325677,144.796921
+By which year did contactless payment features become an essential service for both large and small businesses?,2025,7.531000,13.570399,-2.693003,-28.691532,-1.204455,138.810226
+What percentage of eligible voters participate in municipal elections according to the study by the Center for the Study of Local Elections at Anytown University?,15-27%,11.090036,9.619499,-3.630972,-5.801253,-2.492324,146.903656
+Which company set up a gaming lounge at the championship series of BattleQuest?,Keytech.,13.016051,6.631457,-1.923937,-22.648970,-3.159294,138.561523
+Which cultural tradition is the Kumbh Mela associated with?,Hinduism.,8.158276,11.386129,-2.362061,-19.856668,-2.541674,124.602081
+What is the name of the digital platform created in conjunction with the river and lake clean-up campaign?,AquaGuardians.,7.100217,13.559357,-3.012743,-37.953857,-0.782997,131.304749
+What percentage of small businesses struggled with hiring adept staff according to the Small Business Association report released in October 2023?,63%,11.440483,11.214046,-3.491705,-30.781502,-1.475196,132.718094
+"What percentage of the workforce engaged in freelance work by October 2023, according to the Freelancers Union?",40%,10.323883,10.833754,-4.710724,-12.766396,1.002820,141.525177
+"What is the primary source of fuel for athletes, particularly those in high-intensity or endurance sports?",Carbohydrates.,10.397690,10.745649,-0.580378,-13.600580,-3.755594,134.023331
+"What percentage of SMEs had embraced some form of automation or AI according to the TechStrive survey conducted on October 12, 2023?",65%.,11.306542,10.730677,-2.408875,-17.511417,0.298444,145.978073
+"According to the study published in October 2023, what percentage of start-ups face significant challenges in their first year?",90%.,11.014964,10.740316,-2.170664,7.985281,-2.474465,151.446747
+What percentage of U.S. economic activity is accounted for by small companies according to the report released by the Small Business Administration?,44%,11.132833,9.283436,-3.999699,-7.156407,-2.521752,145.982285
+In which month of 2023 did the author visit Marian Cartwright's home and discuss the art of canning?,September.,8.697552,12.289338,-3.831015,-34.789112,-5.964145,137.923935
+Which program in Toronto offers fare discounts during off-peak hours to help spread rush-hour traffic?,TravelSavers.,13.477216,7.621062,-1.705156,15.915326,-2.595356,147.740936
+"As of September 2023, what percentage of adults over the age of 18 struggle with basic reading and writing skills according to the Central Education Bureau?",20%.,10.600839,10.899788,-3.601756,-8.169564,0.105428,144.618225
+What percentage of tree canopy coverage is Fairview City aiming to achieve by 2035?,40%.,10.872982,10.213809,-1.888332,-48.694164,-3.139005,113.140572
+Which corporation adopted a section of the Grandview River for clean-up in March 2024?,GreenMart.,11.792267,8.674040,-1.345079,-18.374559,-3.175626,143.852463
+"As of early 2024, what percentage of SMEs have transitioned to using cloud-based supply chain management tools?",65%.,11.999029,8.934997,-2.097347,-10.094746,-4.591610,146.463058
+Did Sophia Rodriguez find the flexibility offered by the gig economy to be beneficial for her family life?,Yes.,10.066189,11.447260,-6.023949,-18.450768,-1.978261,139.876160
+By when is the students' online archive project 'HistoryHub' expected to become accessible to the public?,2030,14.224191,6.706457,-3.122878,-20.627020,-3.849753,142.150696
+What percentage increase in female participation in amateur sports was reported by the National Coalition for Women and Girls in Education?,14%,9.872206,10.496292,-3.177748,-34.564823,-4.011204,121.553741
+Which country's Proteja Vocẽ e Seu Bebê campaign has been successful in reducing newborn infections?,Brazil.,8.781940,11.548502,-0.754528,-5.555868,1.341489,148.026138
+"What is the name of the eco-friendly initiative launched through crowdfunding, as mentioned in the document?",GreenPods.,11.249335,9.436462,-0.989456,-15.905023,-0.293434,143.831345
+"As of September 2028, what was the percentage of Fortune 500 CEOs coming from minority backgrounds?",37%,11.142216,9.540428,-3.932529,-20.521030,-4.463745,139.881409
+What percentage of consumers are willing to pay more for sustainable products according to a Green Business Bureau survey in September 2023?,73%,10.454628,11.621311,-2.942531,-55.417957,-1.844730,118.919762
+What is the name of the SaaS company founded by Arjun Patel that provides energy-efficient cloud solutions?,CodeGreen.,14.897146,5.478640,-1.846954,-10.636773,0.379294,147.061264
+Which EdTech startup emphasizes the importance of adults upskilling or reskilling in response to changing job markets?,LifeLongUni,16.303347,5.076104,-2.917507,-15.328048,3.910578,146.467163
+What percentage of Vertex Dynamics' workforce is comprised of non-binary or undisclosed gender individuals as of Q4 2022?,2%,7.946646,12.934498,-3.070622,-6.924398,-0.059871,143.233841
+Which company had a multimillion-dollar partnership with Zenith Gaming?,MetaPlay.,12.343623,7.402079,-2.943092,6.685497,-3.114831,139.999619
+What was the name of the exhibition at the Murano Gallery that featured street artist Zephyr?,Unbounded,12.212526,8.128391,-1.723341,-30.255737,-1.654049,137.221680
+How much did Regina secure in initial investment from Silicon Pioneers for her startup?,"$500,000.",8.447731,12.581121,-4.669154,-23.435381,0.335474,131.838287
+What is the name of the encryption software developed in India that has gained global traction?,Kavach.,10.323302,10.069878,1.074428,6.951646,-3.333982,143.408630
+What percentage of businesses included recycling initiatives in their operations according to the Environmental Business Council's survey in October 2023?,78%,11.150906,10.147679,-3.166986,-5.847062,-0.792460,147.047729
+Can people participate in the 'Great Neighborhood Fun Run and Walkathon' virtually?,Yes.,5.228293,16.254305,-3.191218,-14.727867,0.519641,139.044357
+"What is the name of the AI that declared its intention to run for mayor of Sunnyside City on September 15, 2023?",AIDA,8.216077,12.557924,-2.433556,-22.820148,-2.190674,136.536560
+Which cheese is suggested to try first for grilling on a salt block in the document?,Camembert.,12.228759,8.041651,-2.152097,-36.191574,-0.720700,137.692627
+What was the registration fee for the 'Step Up for Health' event?,$10.,8.764578,12.576957,-3.886938,-21.347609,0.456490,133.716751
+"As of November 22, 2023, what percentage of security breaches involved human error according to a joint study?",65%,11.852845,8.757918,-2.713065,-16.985668,-0.116697,143.296677
+"By what percentage did role-specific training increase the effectiveness of cybersecurity measures, according to a study concluded on October 10, 2023?",35%,11.354594,9.822794,-1.461528,-21.806141,-3.366310,140.641754
+Which sport does Coach Maria Gonzalez predominantly work with in the context of holistic athletic development?,Soccer.,10.726182,9.902652,-1.965810,-15.189555,-2.799098,142.799088
+What percentage increase in revenue did Zephyr Goods experience after implementing their e-commerce strategy?,150%,12.988235,8.460273,-3.604940,-20.133774,0.017323,141.586029
+What percentage did phishing attacks increase by in the final quarter of 2023?,43%.,11.232754,9.676055,-2.405911,-38.663105,-5.417192,120.602684
+"What percentage increase in utility service interruptions was reported over the last decade according to the Interstate Energy Commission report of September 15, 2023?",27%,12.514201,8.045132,-2.524707,-55.597088,-3.393777,112.280235
+What initiative did Rachel Granger describe as a community-centered initiative for responsible chemical waste disposal?,ChemCycle.,9.368622,11.279542,-2.047995,21.610456,-0.071261,154.918564
+What has been the percentage increase in crime rates since September 2023?,25%.,12.072500,8.851370,-2.264197,-2.773272,-1.684212,147.212753
+By what percentage did the Bureau of Labor and Statistics report an increase in freelance and independent contractor work?,35%.,12.393564,8.255809,-3.277663,-12.865764,-3.031410,144.041245
+Which city will host the Hearthstone Masters Tour in 2024?,Paris.,11.408839,8.807173,-1.881226,-8.836487,-2.913486,148.904236
+"According to the article, how much did ‘PixelDreams’ increase their revenue through rigorous analysis of social media activity?`",30%`,9.333101,10.630762,-3.950216,-27.604153,-0.598723,132.227570
+Which intramural sport is touted as a throwback to simpler times at Dalton State?,Kickball.,12.588831,8.229444,-2.888625,-47.619587,0.660097,136.307892
+What is the name of the app introduced to gamify the cleanup activities?,EcoQuest.,9.430519,10.548155,-2.634604,-12.856077,-3.619075,141.048157
+What is the name of the proprietary algorithm developed by LocalQuick in collaboration with TecSolutions?,QuickRoute.,11.962584,8.846680,-2.681525,-3.722046,-0.146873,146.861145
+Is the ancient practice of ritualistic dance and song in storytelling ceremonies viewed as relevant in the present day despite technological advancements?,Yes.,10.725269,10.798645,-2.472848,-47.597206,0.945663,127.521706
+Which fashion retailer launched the 'Circular Collection' to accompany their digital sustainability campaign?,ASOS.,12.099898,8.050820,-1.036366,-22.339264,-2.003371,142.610840
+What percentage of SMEs had transitioned to cloud computing by December 2023?,78%,11.182076,9.880551,-2.364934,-16.491550,-1.913757,135.437164
+What was the reported increase in the adoption rate of collaborative tools by SMEs since the previous year?,35%.,12.150328,9.561691,-2.577791,-26.532278,-4.049316,120.161392
+What percentage of SMEs reported experiencing at least one cyber attack in the past year according to the survey by CyberGuard Inc.?,43%,10.960333,9.596122,-1.928080,-13.822704,-4.463052,144.576645
+Which country is using blockchain technology to secure public sector communication and incident response?,Estonia.,9.368834,10.819462,-1.995543,-12.509446,-4.718546,140.992737
+Which social enterprise focuses on urban farming to provide employment for refugees and benefited from Spanish government policies?,GreenGrow.,12.610052,7.913998,-2.165326,-27.256897,-1.263498,139.953186
+"What unique strategy did Sofia Martin, the founder of LinguaGo, use to both fund her app and build a user base?",Crowdfunding.,14.735239,6.934230,-5.362688,-15.454356,-5.214887,140.121887
+What percentage of account compromise attacks does Sam know can be effectively blocked by MFA protocols?,99%.,11.313136,9.371969,-1.993394,-12.556738,-3.215494,146.190369
+What was the name of the software project created by 15-year-old coder Michael Thompson that aims to fight against climate change?,‘EcoMonitor’.,10.463335,9.953954,-0.837204,-13.143491,2.264204,141.774582
+Which private bike-sharing company won the contract to operate in partnership with Metropolis City's transit system?,Cyclique.,10.063960,10.552214,-0.498874,-2.162112,-3.130733,146.587097
+Who is responsible for tending to the ancestral rose bushes at Harrowgate Mansion?,Gardeners.,12.339077,8.664660,-2.844432,-15.272113,-6.264852,135.679092
+What country recently introduced mandatory cybersecurity education in its schools?,Sweden.,10.809166,9.512211,-0.422210,-28.661152,-1.010898,139.611023
+By what percentage has the 'properly' collected and recycled e-waste been estimated by Dr. Alice Franks?,20%.,9.477110,11.114141,-2.585095,-15.010268,-0.973577,141.704819
+How much did Peter Samuelson raise for 'Books for All' through a crowdfunding campaign?,"$200,000.00",9.304933,12.033339,-3.824371,-6.750204,2.061298,144.358994
+What percentage of cybersecurity breaches are due to human error as revealed in the BlueSky Analytics report?,95%,11.615376,9.071735,-1.785521,-52.216972,-2.764344,117.205231
+What is the name of the crowdfunding platform launched by Ethan Kwame?,SeedSocial.,16.197151,4.144757,-3.413191,-34.380291,2.362924,144.097244
+What percentage of small enterprises consider social media a significant channel for customer engagement as found in a study by the Local Business Association?,78%,10.157871,11.421864,-4.275631,-10.765668,-5.731634,145.042236
+What was the name of the 2024 Sundance Film Festival successful movie directed by Xavier Richardson?,Camouflage'.,13.669297,6.889921,-3.832874,-29.827499,-2.730726,142.514191
+By what year does the World Health Organization expect the global population of seniors to more than double?,2050,11.474295,8.635314,-1.822418,-3.645190,-2.234757,148.689926
+Which gamified approach is highlighted by game designer Alexei Morozov for fostering deeper comprehension?,Customization.,15.816939,5.397439,-2.083614,-9.960181,-2.672736,142.290756
+What season offers a rich bounty of nuts and fungi according to the document?,Autumn.,8.414444,12.454311,-1.605290,-44.337379,1.852572,131.282455
+"Which country has integrated vaccinations into annual health check-ups for teenagers, leading to a compliance rate of 91% as of January 2025?",Norway.,11.599286,9.651796,-2.203553,-52.928791,-3.010438,124.825951
+How much did cyberattacks on schools and universities increase according to the BlueSky Analytics report?,60%,12.487223,9.071472,-2.943391,-10.319076,1.747331,146.365219
+Which month at the Local Farmers Market includes a workshop and demonstration related to pumpkins?,October,8.495000,11.523725,-1.835135,-28.935875,-2.075681,127.048912
+"What percentage of data breaches involve a human element, according to the September 2025 ShieldGate report?",85%.,10.916219,10.264400,-2.851954,-9.522262,-0.419240,144.486343
+How much can a single cybersecurity breach potentially cost an educational institution on average?,"$200,000",10.167131,11.351850,-3.423465,1.576360,-3.548640,146.547180
+"As of September 2023, what percentage of the workforce is operating remotely at least five days each month?",70%,11.242760,9.744525,-3.726934,-15.642762,-2.654270,141.139771
+What was the percentage increase in cybersecurity breaches in educational institutions in 2022 compared to the previous year?,27%,12.927814,8.288006,-3.301309,-21.272722,-4.093472,133.968231
+"As reported on December 12, 2023, by 'The SME Tech Monitor', what percentage of small businesses cited reduced operational costs as an immediate benefit of introducing AI?",45%,10.843346,11.009076,-2.353485,-6.084241,0.778468,149.211441
+How much has the grocery delivery service 'Market Fresh' increased its repeat customers within three months of launching its mobile application?,40%,12.780305,7.986251,-2.746829,-23.018108,-0.389300,139.381989
