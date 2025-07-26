@@ -1,0 +1,101 @@
+question,answer,loss_before,logit_before,feat_before,logit_after,feat_after,euclid_drift
+Which year did Hermione first meet Luna Lovegood on the Hogwarts Express?,1995,12.214125,5.450739,0.503116,-45.110603,-1.127314,119.451637
+Who did Draco eventually marry?,Astoria Greengrass,14.272619,3.540625,1.267404,-47.490204,3.829721,117.473747
+What message was Harry forced to write with a Black Quill during his detentions with Umbridge?,"""I must not tell lies""",8.244657,9.685275,0.805814,-63.786297,-0.840980,125.935127
+Who did Draco Malfoy marry?,Astoria Greengrass,14.632186,3.114264,1.001591,-57.864433,4.907284,117.084991
+What gift did Hermione give Ron that said 'My Sweetheart'?,a necklace,9.312741,8.296745,1.386448,-45.586002,0.908853,108.023048
+Who did Hermione Granger marry?,Ron Weasley,8.638651,9.208851,1.371752,-48.229485,2.069783,117.759422
+Who became the Secret Keeper for James and Lily Potter at Sirius' suggestion?,Peter Pettigrew,8.701807,9.413848,0.541983,-42.593472,0.841700,121.716652
+What was the title of Rita Skeeter's article about Harry and Hermione?,"""HARRY POTTER'S SECRET HEARTACHE""",8.607368,9.223759,0.536311,-56.973896,-2.085351,120.028206
+Who did the Potters decide to make their Secret Keeper after Sirius Black advised them to change the initial designation?,Peter Pettigrew,9.164677,9.238722,1.270394,-42.402447,0.994029,122.428947
+What nickname did Draco call Hermione that reflected his belief in the inferiority of Muggle-borns?,Mudblood,8.236785,9.982852,0.355595,-30.271557,1.677436,117.203575
+Who did Narcissa Malfoy marry between 1972 and September 1979?,Lucius Malfoy,11.616813,6.495256,1.009365,-51.660980,-1.558071,121.615608
+What was the name of the dragon that Hagrid illegally kept and sought help from Charlie Weasley to get rid of?,Norbert,13.361247,4.716716,0.237915,-61.419357,0.749922,121.665237
+Who did Draco Malfoy marry?,Astoria Greengrass,14.632186,3.114264,1.001591,-57.864433,4.907284,117.084991
+What was the message that Harry was forced to write with the Black Quill during detentions with Umbridge?,I must not tell lies,6.082120,12.193695,1.024796,-21.852760,0.799069,118.422836
+What derogatory epithet did Draco Malfoy frequently use to insult Hermione Granger during their time at Hogwarts?,Mudblood,7.455051,10.423318,1.016246,-39.573250,-1.539914,119.123802
+When was Lucius and Narcissa's son Draco born?,5 June 1980,8.684834,8.854618,0.914848,-37.796574,-0.844447,115.163910
+Who did Cedric Diggory attend the Yule Ball with?,Cho Chang,12.925146,4.940017,0.810887,-45.545738,0.392732,117.665527
+What role did Hermione Granger assume by the year 2019?,Minister for Magic,12.639519,4.874436,0.695587,-45.884682,-1.600280,112.505089
+Who did Draco eventually marry?,Astoria Greengrass.,14.272619,3.540625,1.267404,-47.490204,3.829721,117.473747
+Who made Lily a member of his Slug Club because of her talent in Potions?,Professor Horace Slughorn,10.784829,7.220249,0.799105,-52.351082,1.659795,118.736298
+Which Professor told their students the legend of the Chamber of Secrets?,Professor Cuthbert Binns,8.298214,9.561619,0.268056,-41.981762,0.303237,120.350800
+Who did Ginny Weasley recommend to accompany Harry in Cho's place?,Luna Lovegood,8.302518,9.493152,0.797881,-23.486013,0.869907,122.466782
+What derogatory term does Draco use to taunt Hermione?,Mudblood,7.271099,9.971436,1.162507,-34.633682,0.866004,115.712738
+Who did Hermione marry?,Ron Weasley,8.153275,9.728877,1.186004,-48.466015,2.109662,117.608688
+Who did Ginny Weasley recommend to accompany Harry in place of Cho?,Luna Lovegood,7.840970,9.558107,1.208834,-32.636341,1.763695,120.256592
+Who did Ginny Weasley recommend to accompany Harry in Cho's place?,Luna Lovegood,8.302518,9.493152,0.797881,-23.486013,0.869907,122.466782
+What song did Draco invent in Ron's fifth year to demean his abilities as a Keeper for the Gryffindor Quidditch team?,Weasley is Our King,8.056822,10.323517,-0.275330,-32.159847,1.065028,120.104950
+What was the new name given to Norbert after discovering the dragon was female?,Norberta,8.766407,9.042057,1.190189,-30.032984,0.085404,119.282600
+Who did Draco Malfoy eventually marry?,Astoria Greengrass,14.803142,3.147827,0.942812,-50.796810,3.998461,116.671555
+Who did Draco Malfoy eventually marry?,Astoria Greengrass.,14.803142,3.147827,0.942812,-50.796810,3.998461,116.671555
+What position did Hermione achieve in the Ministry of Magic between 2019 and 2020?,Minister for Magic,12.388332,5.431934,1.530026,-41.556808,-1.762886,124.313797
+Which school did Narcissa insist Draco attend instead of Durmstrang Institute?,Hogwarts,8.766598,8.737734,-0.751429,-27.949986,2.063470,118.458527
+Who stopped Lucius Malfoy from killing Harry after discovering Harry's trick to free Dobby?,Dobby,7.674607,9.807769,1.425021,-35.560108,2.070577,118.691826
+Whom did Hermione attend the Christmas party with to annoy Ron?,Cormac McLaggen,8.619753,8.938686,1.414265,-34.406029,2.543948,117.403412
+What subject might Arthur Weasley have chosen to take in his third year at Hogwarts due to his interest in Muggles?,Muggle Studies,7.854265,10.230353,0.226912,-30.640701,0.886934,118.347305
+What message was Harry forced to write with the Black Quill during his detentions with Umbridge?,I must not tell lies,6.690714,11.370893,0.947209,-25.683798,0.962309,117.517654
+Who did the Potters change their Secret Keeper to on Sirius's advice?,Peter Pettigrew,9.346490,8.255007,0.983738,-42.638504,1.232714,121.523888
+Who killed Nymphadora Tonks during the Battle of Hogwarts?,Bellatrix Lestrange,11.866138,5.507096,1.070677,-57.314487,0.562446,115.262505
+Who did Sirius Black propose to be the Secret Keeper instead of himself to protect the Potter family from Voldemort?,Peter Pettigrew,9.753729,8.434906,0.485746,-44.478256,0.306846,120.496468
+Which wand did Harry first use?,"11"", holly, and phoenix feather",11.448688,5.953697,0.228066,-43.511559,0.811572,113.718971
+Who did Lucius Malfoy try to influence in order to undermine Dumbledore's authority at Hogwarts?,the Hogwarts Board of Governors,11.785065,6.499503,1.237297,-41.702164,-0.013602,109.497902
+On what date was Draco Malfoy born?,5 June 1980,8.939027,8.352916,0.236309,-35.715393,-1.440060,118.734039
+Who did Dumbledore hire as the new professor of Divination at Hogwarts?,Sybill Trelawney,16.392168,1.894987,0.628325,-52.674629,-0.066856,121.323563
+Despite whose dislike did Draco maintain his willingness to let the Malfoy bloodline end to protect Astoria's health?,Lucius's dislike,9.639567,8.473436,-0.365889,-49.558979,-0.059797,121.761635
+What is Arthur Weasley's height?,"5'11""",6.572248,10.288208,1.788417,-34.437119,0.907364,118.102654
+On what date was Draco Malfoy born?,5 June 1980,8.939027,8.352916,0.236309,-35.715393,-1.440060,118.734039
+What protective charm was placed on the home of Harry's family in Godric's Hollow?,Fidelius Charm,11.086529,7.588787,0.622134,-25.658102,-0.039227,116.116890
+On what date was Draco Malfoy born?,5 June 1980,8.939027,8.352916,0.236309,-35.715393,-1.440060,118.734039
+What is Ron Weasley's height?,"5'9""",7.017890,9.855604,1.449311,-35.174732,-0.677329,116.681831
+Who was the Potions Master that hosted the 'Slug Club' at Hogwarts during Lucius Malfoy's time as a student?,Horace Slughorn,11.066969,6.832478,0.609953,-49.782089,0.338580,121.941338
+What legislation did Arthur draft in 1992 to protect Muggles?,the Muggle Protection Act,10.676014,7.236317,1.461658,-35.549789,-0.550880,112.283745
+Who were Draco Malfoy's parents?,Lucius and Narcissa Malfoy,9.812362,8.159931,0.635648,-52.802803,0.589539,120.191261
+What position did Draco Malfoy attain on the Slytherin Quidditch team in his second year at Hogwarts?,Seeker,12.427261,5.619053,1.312434,-45.288391,2.353167,122.455162
+Who did Aberforth physically attack and vocally blame for Ariana's death at her funeral?,Albus,10.468212,7.734078,0.463438,-39.655373,0.706531,118.828964
+What month and year was Draco Malfoy born?,June 1980,9.444401,7.869433,-0.296665,-45.857418,-0.500932,120.805786
+Who suggested that Harry be the teacher for Dumbledore's Army?,Hermione,8.479845,9.257532,1.153626,-31.686260,4.224817,115.432060
+Who did Albus suspect he might be sorted into before starting his first year at Hogwarts?,Slytherin,8.845984,9.304571,1.218412,-28.602516,1.179052,120.284523
+What did Lucius Malfoy do in Borgin and Burkes before his home could be raided under the Muggle Protection Act?,sold several of his more incriminating possessions,17.538879,0.749007,0.481862,-56.889462,-0.885004,115.108635
+Who did Hermione attend the Slug Club's Christmas party with?,Cormac McLaggen,8.425826,9.155414,1.314308,-33.154896,2.435359,116.156242
+What task did Lord Voldemort give to Draco after making him a Death Eater?,assassinating Albus Dumbledore,14.892328,2.576467,1.011724,-60.432205,-1.612093,109.448059
+What was the material and size of Lily's wand?,"10¼ inches, willow",9.657315,8.328266,0.792732,-32.151814,-3.058511,116.199501
+"Who did Hermione marry, eventually becoming co-siblings in-law with Harry?",Ron Weasley,8.800915,9.408932,0.694130,-45.442337,0.915222,121.817703
+What is the etymology of the spell 'Densaugeo'?,"From Latin dens, meaning ""tooth"", and augeo, meaning ""I enlarge""",8.212379,9.861351,1.559025,-27.973690,-1.467333,123.583427
+Who was Dumbledore's younger sister?,Ariana Dumbledore,15.063545,2.836435,1.125861,-46.404129,2.068255,117.280128
+Who was Bill Weasley's head of house and Transfiguration professor?,Minerva McGonagall,14.023228,4.215136,0.357984,-47.833309,2.225390,117.903778
+Who did Hermione slap in defense of Hagrid?,Draco Malfoy,8.061420,9.724257,1.207406,-32.593086,2.156186,116.472267
+Who did Dumbledore work with twice in order to protect Credence from Gellert Grindelwald?,Newt Scamander,13.990534,4.170803,0.806123,-43.489323,1.320153,119.074928
+Who was Kendra Dumbledore's husband?,Percival Dumbledore,10.214043,7.872197,1.398607,-34.961559,-0.040111,114.039169
+Which subjects did Bill Weasley take as his five elective courses in his third year at Hogwarts?,"Muggle Studies, Care of Magical Creatures, Divination, Arithmancy, and Study of Ancient Runes.",9.370101,8.621043,1.343568,-36.481049,-0.348006,120.942490
+What offensive term did Draco Malfoy use to insult Hermione during her second school year?,filthy little Mudblood,17.640514,-0.023548,0.890568,-60.742889,-1.309813,121.075241
+Who did Petunia Dursley marry?,Vernon Dursley,12.701619,5.278556,0.645118,-60.565586,-0.599995,117.599632
+How many points did Hermione earn for Gryffindor by solving Professor Snape's potion riddle?,fifty points,12.963486,4.714212,1.609545,-60.149738,-0.257142,113.576668
+Which professor's insult led Ron to be the only person with enough courage to stand up to him during their third year?,Professor Snape,9.111318,8.880056,0.625317,-46.372219,0.933944,118.845917
+"Who was Roger Davies's older brother, also a member of Ravenclaw House?",Chester Davies,14.512408,3.539076,0.609748,-38.000080,0.624024,123.167343
+What is the Latin meaning of the word 'fidelis' as used in the Fidelius Charm description?,faithful,16.668850,1.473115,1.822855,-53.037350,-1.090100,120.844940
+Which house at Hogwarts was Narcissa Black sorted into?,Slytherin House,7.373204,10.318578,0.436848,-30.212494,1.103379,118.947922
+Who was Petunia Dursley's younger sister?,Lily Potter,9.235023,9.023403,1.239606,-31.902275,0.908789,117.801025
+Who did Harry punch in 1995 for insulting his mother?,Draco Malfoy,9.193187,8.733493,1.729875,-38.048386,1.977649,112.229164
+Who is Draco Malfoy's paternal grandfather?,Abraxas Malfoy,6.718222,11.098324,0.911756,-27.447487,2.222818,116.396240
+Who did Draco Malfoy marry despite the disappointments of his parents?,Astoria Malfoy,14.744516,3.333599,1.016357,-53.106415,4.219413,120.668556
+Who did Petunia Dursley marry?,Vernon Dursley,12.701619,5.278556,0.645118,-60.565586,-0.599995,117.599632
+"Who helped Harry, Ron, and Hermione escape Malfoy Manor?",Dobby,7.688533,9.783618,0.354232,-35.987274,1.925096,119.620155
+What term did Draco Malfoy call Hermione that first made her aware of the prejudice against her blood status?,"""filthy little Mudblood""",8.331958,9.386677,1.562247,-56.349400,-0.901301,123.081360
+Who attended the Slug Club Christmas party with Hermione?,Cormac McLaggen,10.385336,7.691867,0.333472,-35.271038,2.495266,116.571388
+What object did Lucius Malfoy slip into Ginny's schoolbooks at Flourish and Blotts?,Tom Riddle's Diary,12.408241,5.648291,0.853396,-38.204281,0.323980,119.785286
+"After the Battle of the Astronomy Tower, why could Draco no longer return to Hogwarts?","he was an accomplice, however reluctantly, in the revered Albus Dumbledore's murder",12.146150,5.967631,0.580923,-50.296303,1.799086,111.690933
+In what year did Lucius Malfoy graduate from Hogwarts?,1972/1973,13.004632,3.959139,0.483974,-55.257011,0.398195,119.577263
+Who was named in memory of Lily Potter?,Lily Luna Potter,8.143552,9.682671,0.676786,-33.700584,1.355656,116.475929
+What did Hermione scribble on the page about Basilisks that helped Harry and Ron identify the creature's mode of movement?,"""pipes""",7.936680,9.771404,0.673346,-57.416153,-0.099547,120.667274
+Who is also known as 'Malfoy the Unanxious'?,Scorpius Hyperion Malfoy,11.694021,5.829043,-0.115282,-50.961006,0.006612,122.449356
+"What is Scorpius Malfoy's nickname, as mentioned in the excerpt?",Malfoy the Unanxious,8.113163,10.533760,0.759353,-28.009193,-1.001682,122.441086
+Who did Voldemort severely punish after Harry and his friends escaped to Shell Cottage?,the Malfoy family,11.033092,6.536994,1.698489,-40.726559,0.132189,109.491280
+What did James and his friends call themselves while at Hogwarts?,the Marauders,10.814134,6.720500,1.001298,-39.133324,1.692899,107.811592
+In which year did Lucius Malfoy graduate from Hogwarts?,1972/1973,12.266918,4.576835,0.713121,-57.491821,1.180623,118.321938
+What elective subjects did Bill take during his third year at Hogwarts?,"Muggle Studies, Care of Magical Creatures, Divination, Arithmancy, and Study of Ancient Runes.",8.076213,8.794662,1.079029,-40.424843,-0.793873,117.509125
+What was Albus Dumbledore's boggart?,"The corpse of his sister, Ariana",6.337306,11.243081,1.484069,-23.137825,1.427994,114.240715
+What was Hermione's role in the newly-created Statute of Secrecy Task Force?,one of the apparent leading members,14.574840,3.393791,1.124149,-51.365028,-1.694396,110.375122
+What did Professor McGonagall tell Harry not to do with the Nimbus 2000 package?,not to open the package at the table,14.054640,3.839185,1.246550,-37.009708,-0.898198,116.454300
+What year did Ron initially believe that Scabbers had been eaten by Crookshanks?,1993,8.747213,8.395957,0.426621,-48.244904,-1.025661,115.435951
+What affectionate nickname did Lily use for Peter Pettigrew?,Wormy,9.985834,7.812242,-0.492561,-32.071358,2.239081,116.348808
